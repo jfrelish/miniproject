@@ -1,6 +1,6 @@
 # Linux Commands
 
-* [cd] (/cd.md)
+* [cd](/cd.md)
 * mkdir
 * cp
 * pwd
