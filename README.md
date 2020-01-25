@@ -1,6 +1,6 @@
 # miniproject
 
-* [Linux Commands] (/linux/index.md)
+* [Linux Commands](/linux/index.md)
 * Git Commands and GitFlow
 
 ## Special Topics
