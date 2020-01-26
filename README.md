@@ -14,3 +14,4 @@ Arif Khan, Jeffrey Frelish, Scott Grodberg
 
 Changelog
 1/25/20	SG	Content for readme, started linux commands index.
+1/25/20 JF MKDIR Forking vs cloning, README.md
