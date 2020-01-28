@@ -20,3 +20,5 @@ Changelog
 * 1/26/20 SG Stubbed linux command docs, did some content.
 * 1/27/20 JF New School branch Added, Git tutorial and content added.
 * 1/27/20 SG Content for 4 linux commands, updated index.
+* 1/28/20 JF removed directory Forked-Vs-Cloning and Pull_Requests.
+* 1/28/20 JF Added source directory with content.
