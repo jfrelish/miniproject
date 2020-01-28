@@ -18,5 +18,5 @@ Changelog
 * 1/25/20 JF MKDIR Forking vs cloning, README.md
 * 1/25/20 JF MKDIR PULL REQUEST, index.md
 * 1/26/20 SG Stubbed linux command docs, did some content.
-
 * 1/27/20 JF New School branch Added, Git tutorial and content added.
+* 1/27/20 SG Content for 4 linux commands, updated index.
