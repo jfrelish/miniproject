@@ -35,4 +35,7 @@ Changelog
 * 1/28/20 AK Added status.md as a feature commit.
 * 1/28/20 AK Added gitCommands.txt as a feature commit to test out gitHub using gitBash
 * 1/28/20 AK Added content to gitCommands as a fix using gitBash
+* 1/28/20 AK created GitFlow folders and moved all .md files related to GitFlow to the folder
+* 1/28/20 AK fix: update information related to repository with images in repo.md file
+* 1/28/20 AK Created Images folder and added images related to repository, referenced in repo.md file
 
