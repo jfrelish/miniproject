@@ -31,7 +31,7 @@ Changelog
 * 1/28/20 AK Added pull.md as a feature commit.
 * 1/28/20 AK Added push.md as a feature commit.
 * 1/28/20 AK Added remote.md as a feature commit.
-* 1/28/20 AK Added repo.md(GitFlow/repo.md) as a feature commit.
+* 1/28/20 AK Added ![repo.md](GitFlow/repo.md) as a feature commit.
 * 1/28/20 AK Added status.md as a feature commit.
 * 1/28/20 AK Added gitCommands.txt as a feature commit to test out gitHub using gitBash
 * 1/28/20 AK Added content to gitCommands as a fix using gitBash
