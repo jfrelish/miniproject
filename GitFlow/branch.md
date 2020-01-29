@@ -8,4 +8,4 @@
 * $ git branch testing
 
 * As you can see, using the git command above created you a 'testing' branch. 
-![branchImage](/Images/Branch.PNG)
+![branchImage](/Images/Branch.png)
