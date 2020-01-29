@@ -22,3 +22,17 @@ Changelog
 * 1/27/20 SG Content for 4 linux commands, updated index.
 * 1/28/20 JF removed directory Forked-Vs-Cloning and Pull_Requests.
 * 1/28/20 JF Added source directory with content.
+* 1/28/20 AK Added branch.md as a feature commit.
+* 1/28/20 AK Added checkout.md as a feature commit.
+* 1/28/20 AK Added clone.md as a feature commit.
+* 1/28/20 AK Added commit.md as a feature commit.
+* 1/28/20 AK Added fork.md as a feature commit.
+* 1/28/20 AK Added merge.md as a feature commit.
+* 1/28/20 AK Added pull.md as a feature commit.
+* 1/28/20 AK Added push.md as a feature commit.
+* 1/28/20 AK Added remote.md as a feature commit.
+* 1/28/20 AK Added repo.md as a feature commit.
+* 1/28/20 AK Added status.md as a feature commit.
+* 1/28/20 AK Added gitCommands.txt as a feature commit to test out gitHub using gitBash
+* 1/28/20 AK Added content to gitCommands as a fix using gitBash
+
