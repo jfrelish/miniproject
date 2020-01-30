@@ -1,6 +1,6 @@
-# Clone <h1>
+# Clone 
 
-## What is Clone & How it is use? <h2>
+## What is Clone & How it is use? 
 
 * git clone is a Git command line utility which is used to target an existing repository and create a clone, or copy of the the target repository.
 
@@ -8,19 +8,19 @@
 
 ![Clone](/Images/Clone.PNG)
 
-### Cloning to a specific folder<h3>
+### Cloning to a specific folder
 
 * Clone the repository located at <repo> into the folder called <directory>! on the local machine.
 
 ![CloneFlolder](/Images/CloneFolder.PNG)
 
-#### Cloning a specific tag <h4>
+#### Cloning a specific tag 
 
 * Clone the repository located at <repo> and only clone the ref for <tag>
 
 ![CloneTag](/Images/CloneTag.PNG)
 
-#### Shallow Clone <h4>
+#### Shallow Clone 
 
 * Clone thre pository located at <repo> and only clone the history of commits specified by the option depth=1.
 
