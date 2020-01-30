@@ -10,7 +10,7 @@
 
 ####Example of a typical merge
 
-![typical](/Images/Typical.PNG)
+![typical](/Images/Typical.png)
 
 * [Merge Conflict](https://github.com/jfrelish/miniproject/blob/master/Tutorials/Step-by-step.md#merge-conflict-illustration)
 
