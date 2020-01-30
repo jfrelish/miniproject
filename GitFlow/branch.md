@@ -1,5 +1,5 @@
-# Branch <h1>
-## What is Branch? <h2>
+# Branch 
+## What is Branch? 
 
 
 * Think of a branch as a branch of the bank, how it is separated from its headquarter. Similarly in Git world, branching means you diverge from the main line of development and continue to do work without messing with that main line.
