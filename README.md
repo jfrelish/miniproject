@@ -39,15 +39,15 @@ Changelog
 * 1/28/20 AK fix: update information related to repository with images in repo.md file
 * 1/28/20 AK Created Images folder and added images related to repository, referenced in repo.md file
 * 1/29/20 AK uploaded more Images to [Images](https://github.com/jfrelish/miniproject/tree/gitFlow/Images) folder
-* 1/29/20 AK fix: added infomration to [branch.md](Gitflow/branch.md) file
-* 1/29/20 AK fix: added infomration to [checkout.md](Gitflow/checkout.md) file
-* 1/29/20 AK fix: added infomration to [clone.md](Gitflow/clone.md) file
-* 1/29/20 AK fix: added infomration to [commit.md](Gitflow/commit.md) file
-* 1/29/20 AK fix: added infomration to [fork.md](Gitflow/fork.md) file
-* 1/29/20 AK fix: added infomration to [merge.md](Gitflow/merge.md) file
-* 1/29/20 AK fix: added infomration to [pull.md](Gitflow/pull.md) file
-* 1/29/20 AK fix: added infomration to [push.md](Gitflow/push.md) file
-* 1/29/20 AK fix: added infomration to [remote.md](Gitflow/remote.md) file
-* 1/29/20 AK fix: added infomration to [repo.md](Gitflow/repo.md) file
-* 1/29/20 AK fix: added infomration to [status.md](Gitflow/status.md) file
+* 1/29/20 AK fix: added infomration to [branch.md](GitFlow/branch.md) file
+* 1/29/20 AK fix: added infomration to [checkout.md](GitFlow/checkout.md) file
+* 1/29/20 AK fix: added infomration to [clone.md](GitFlow/clone.md) file
+* 1/29/20 AK fix: added infomration to [commit.md](GitFlow/commit.md) file
+* 1/29/20 AK fix: added infomration to [fork.md](GitFlow/fork.md) file
+* 1/29/20 AK fix: added infomration to [merge.md](GitFlow/merge.md) file
+* 1/29/20 AK fix: added infomration to [pull.md](GitFlow/pull.md) file
+* 1/29/20 AK fix: added infomration to [push.md](GitFlow/push.md) file
+* 1/29/20 AK fix: added infomration to [remote.md](GitFlow/remote.md) file
+* 1/29/20 AK fix: added infomration to [repo.md](GitFlow/repo.md) file
+* 1/29/20 AK fix: added infomration to [status.md](GitFlow/status.md) file
 
