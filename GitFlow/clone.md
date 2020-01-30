@@ -25,6 +25,5 @@
 * Clone thre pository located at <repo> and only clone the history of commits specified by the option depth=1.
 
 ![CloneShallow](/Images/ShallowClone.PNG)
-
-Follow the complete ![Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone)
-
+I
+Follow the complete [Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone)I
