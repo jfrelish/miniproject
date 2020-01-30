@@ -8,6 +8,7 @@
 2. Pull Requests
 3. Adding a collaborator to a GitHub Repo
 4. [Tutorials](Tutorials/Step-by-step.md)
+5. [Continuous Integration](CI.md)
 
 
 ## Authors
@@ -20,3 +21,4 @@ Changelog
 * 1/26/20 SG Stubbed linux command docs, did some content.
 * 1/27/20 JF New School branch Added, Git tutorial and content added.
 * 1/27/20 SG Content for 4 linux commands, updated index.
+* 1/29/20 SG Content for CI topic.
