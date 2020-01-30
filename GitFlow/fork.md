@@ -1,11 +1,13 @@
-#Fork
+# Fork
 
-##What is git fork?
+## What is git fork?
 
 * git fork is a copy of a repository that allows users to freely experiment with changes without affecting the original project.
 * Forking a project is as easy as clickung the Fork button in the header of a repository (if you are on remote repository). 
 
-##Fork an example repository
+[Forking](https://github.com/jfrelish/miniproject/blob/master/Tutorials/Step-by-step.md#what-is-forking)
+
+## Fork an example repository
 
 1. On GitHub, navigate to your repository, in this case our group repository is [jfrelish/miniproject](https://github.com/jfrelish/miniproject)
 

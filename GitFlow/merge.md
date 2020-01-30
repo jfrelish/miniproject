@@ -1,6 +1,6 @@
-#Merge
+# Merge
 
-#What is merge?
+# What is merge?
 
 * Once you decided your work is complete and ready to be merged into your master branch. In order to do that, you'll merge your branch into master, this is called merging branches.
 
@@ -8,7 +8,7 @@
 
 ![merge](/Images/Merge.PNG)
 
-####Example of a typical merge
+#### Example of a typical merge
 
 ![typical](/Images/Typical.png)
 
