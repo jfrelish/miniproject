@@ -18,4 +18,4 @@
 
 ![CheckoutNB](/Images/CheckoutNB.PNG)
 
-To learn more about Git Checkout, follow this ![Tutorial](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
+* To learn more about Git Checkout, follow this [Tutorial](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
