@@ -1,8 +1,8 @@
-# Repository <h1>
+# Repository 
 
 * Repository, or "repo" for short, is a digital directory or storage space where you can access your project, its files, and all the versions of its files that Git saves.
 
-## How to create a Repository <h2>
+## How to create a Repository 
 
 * To create a repository, there are two options. Let's start with option #1.
 
