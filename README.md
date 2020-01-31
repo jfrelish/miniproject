@@ -4,7 +4,7 @@
 * Git Commands and GitFlow
 
 ## Special Topics
-1. Forking vs Cloning
+1. [Forking vs Cloning](Forking-Vs-Cloning/README.MD)
 2. Pull Requests
 3. Adding a collaborator to a GitHub Repo
 4. [Tutorials](Tutorials/Step-by-step.md)
@@ -22,3 +22,4 @@ Changelog
 * 1/27/20 JF New School branch Added, Git tutorial and content added.
 * 1/27/20 SG Content for 4 linux commands, updated index.
 * 1/29/20 SG Content for CI topic.
+* 1/30/20 SG Content for Forking vs. Cloning topic.
