@@ -1,6 +1,4 @@
-# history
-
-## History
+# History
 
 This command is used print out the command history of the current user. 
 
