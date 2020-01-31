@@ -54,3 +54,4 @@ Changelog
 * 1/29/20 SG Content for CI topic.
 * 1/30/20 SG Content for Forking vs. Cloning topic.
 * 1/31/20 SG Wiring content together and filling some blanks.
+* 1/31/20 SG Wired fork and clone content to tutorial.
