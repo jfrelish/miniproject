@@ -1,4 +1,4 @@
-# Git Commands and GitFLow
+# Git Commands
 
 * [git branch](branch.md)
 * [git checkout](checkout.md)
@@ -11,4 +11,3 @@
 * [git remote](remote.md)
 * [Repository](repo.md)
 * [git status](status.md)
-* TODO: git log   ** useful! **

@@ -8,4 +8,6 @@ This command is used to move files, directories, or both, from one location in t
 * Paths can be relative or absolute.
 * There are many switches to copy recursively, preserve file attributes, and more.
 
+![](/Images/mv.PNG)
+
 [Full manual page](http://man7.org/linux/man-pages/man1/mv.1p.html)
