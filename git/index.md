@@ -1,3 +1,0 @@
-# Git Commands and GitFLow
-
-...

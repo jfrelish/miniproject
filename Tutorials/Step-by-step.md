@@ -60,16 +60,19 @@ _Got friends who would like to work on the repository as well, why not add them 
 # Forking vs cloning
 
 
+### What is cloning? 
+
+
+Cloning is the process of copying or downloading a repository onto GIT Terminal, assuming that you have write access, you are able to push any changes to the direct repository. 
+[Read More >](/Forking-Vs-Cloning/cloning.md)
+
 ### What is forking? 
 
 
 Forking is the process of copying a repository onto your own Github account, with this you are able to make any changes you want without affecting the original repository.
+[Read More >](/Forking-Vs-Cloning/forking.md)
 
 
-### what is cloning? 
-
-
-Cloning is the process of copying or downloading a repository onto GIT Terminal, assuming that you have write access, you are able to push any changes to the direct repository. 
 
 
 ### Pull Request
@@ -153,6 +156,14 @@ To see the beginning of the merge conflict in your file, search the file for the
 
 Decide if you want to keep only your branch's changes, keep only the other branch's changes, or make a brand new change, which may incorporate changes from both branches. Delete the conflict markers <<<<<<<, =======, >>>>>>> and make the changes you want in the final merge. 
 
+
+## Optional Conflict Resolution with vimdiff
+After the warning about file CONFLICT, the comand `git mergetool` can be used to launch a visual editor to fix it. The screenshot shows 4 panels. The top row from from left to right is: OURS/local, base, THEIRS/remote. The single window at the bottom half of the screen is the output window, which is the resolved file which will be saved. 
+
+![CloneDownload](/Images/Resolving_a_merge_conflict.PNG)
+
+* [Helpful vim commands](https://vim.fandom.com/wiki/Copy,_cut_and_paste)
+* [Vimdiff commands](https://gist.github.com/mattratleph/4026987)
 
 
 # Add or stage your changes.

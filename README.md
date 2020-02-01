@@ -1,13 +1,14 @@
 # miniproject
 
 * [Linux Commands](/linux/index.md)
-* Git Commands and GitFlow
+* [Git Commands and GitFlow](/GitFlow/index.md)
 
 ## Special Topics
-1. Forking vs Cloning
+1. [Forking vs Cloning](Forking-Vs-Cloning/README.MD)
 2. Pull Requests
 3. Adding a collaborator to a GitHub Repo
 4. [Tutorials](Tutorials/Step-by-step.md)
+5. [Continuous Integration](CI.md)
 
 
 ## Authors
@@ -50,4 +51,7 @@ Changelog
 * 1/29/20 AK fix: added infomration to [remote.md](GitFlow/remote.md) file
 * 1/29/20 AK fix: added infomration to [repo.md](GitFlow/repo.md) file
 * 1/29/20 AK fix: added infomration to [status.md](GitFlow/status.md) file
-
+* 1/29/20 SG Content for CI topic.
+* 1/30/20 SG Content for Forking vs. Cloning topic.
+* 1/31/20 SG Wiring content together and filling some blanks.
+* 1/31/20 SG Wired fork and clone content to tutorial.
