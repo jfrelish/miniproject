@@ -7,10 +7,10 @@ Merge conflicts happens in GIT when it cannot automatically resolve the differen
 # Merge conflict illustration.
 
 
-![](https://github.com/jfrelish/miniproject/blob/school/Pictures/merge%20conflict%201.png)
+![](/Images/merge%20conflict%201.png)
 
 
-![](https://github.com/jfrelish/miniproject/blob/school/Pictures/merge%20conflict%202.png)
+![](/Images/merge%20conflict%202.png)
 
 
 

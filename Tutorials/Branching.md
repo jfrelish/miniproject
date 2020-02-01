@@ -15,4 +15,4 @@ After adding your friends as collaborators, branching from the master branch is 
 **step 4:** You need to push these changes to the remote repository with the command git push origin <new-branch-name>
 
 
-![](https://github.com/jfrelish/miniproject/blob/school/Pictures/Screenshot%20(17).png)
+![](/Images/Screenshot%20(17).png)
