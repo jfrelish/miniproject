@@ -1,4 +1,4 @@
-# miniproject
+# Mini Project 1
 
 ## Basic Commands
 * [Linux Commands](/linux/index.md)
@@ -11,7 +11,7 @@
 4. [Branching](/Tutorials/Branchind.md)
 5. [Pull Requests](/Tutorials/Pull-requests.md)
 6. [Merge Conflicts](/Tutorials/Merge-conflicts.md)
-7. [Continuous Integration](CI.md)
+7. [Improving Productivity](Productivity.md)
 
 
 ## Authors
@@ -69,3 +69,8 @@ Changelog
 * 2/01/20 JF Fix: added history.png to linux
 * 2/01/20 JF Fix: edited and revised Tutorial
 * 2/01/20 SG Fix: Distribute tutorial content across pages and update TOC
+* 2/01/20 SG Fix: Rm unused file.
+* 2/01/20 SG Feature: Images for linux system commands.
+* 2/01/20 SG Fix: Content for path topic.
+* 2/01/20 SG Fix: Up arrow for history.
+* 2/01/20 SG Feature: Bringing in a productivity and competitiveness topic page.
