@@ -10,3 +10,5 @@ This command is used to navigate the linux filesystem.
 * To navigate deeper, specify the folder to change to.
 
 [Full manual page](http://man7.org/linux/man-pages/man1/cd.1p.html)
+
+![](/Pictures/cd.png)
