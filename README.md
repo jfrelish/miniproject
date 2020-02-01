@@ -81,3 +81,4 @@ Arif Khan, Jeffrey Frelish, Scott Grodberg
 * 2/01/20 SG Feature: Content for the productivity page.
 * 2/01/20 SG Feature: Content for automated testing.
 * 2/01/20 JF Feature: added Docker.md
+* 2/01/20 JF Fix: updated docker link on productivity
