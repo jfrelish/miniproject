@@ -70,6 +70,7 @@ Arif Khan, Jeffrey Frelish, Scott Grodberg
 * 2/01/20 JF Fix: added cd.png picture to linux
 * 2/01/20 JF Fix: added history.png to linux
 * 2/01/20 JF Fix: edited and revised Tutorial
+<<<<<<< HEAD
 * 2/01/20 SG Fix: Distribute tutorial content across pages and update TOC
 * 2/01/20 SG Fix: Rm unused file.
 * 2/01/20 SG Feature: Images for linux system commands.
@@ -80,3 +81,6 @@ Arif Khan, Jeffrey Frelish, Scott Grodberg
 * 2/01/20 SG Fix: Consolidate images to images folder, updated all links to point to local resources.
 * 2/01/20 SG Feature: Content for the productivity page.
 * 2/01/20 SG Feature: Content for automated testing.
+=======
+* 2/01/20 JF Feature: added Docker.md
+>>>>>>> 7b11ee2d5b14daff2c82e247a583ef0e869cc179
