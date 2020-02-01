@@ -1,7 +1,0 @@
-What is cd?
-
-cd stands for "Change Directory" and it is a command-line shell command used to change the current working directory in various operating systems. It can be used in shell scripts and batch files. 
-
-To use cd, in batch, simply type cd ~/<directoryName>
-
-
