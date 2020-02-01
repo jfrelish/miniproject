@@ -2,19 +2,19 @@
 # **_Git setup tutorial_**:
 
 
- ***step 1:*** Setup a Github account at [gitHub](https://github.com) and make your very own repository
+ ***Step 1:*** Setup a Github account at [gitHub](https://github.com) and make your very own repository
  
  
- **step 2:** Download, install and run git [git](https://git-scm.com/downloads) 
+ **Step 2:** Download, install and run git [git](https://git-scm.com/downloads) 
  
  
- **step 3:** Run GIT and generate a key using the command $ ssh-keygen -t rsa
+ **Step 3:** Run GIT and generate a key using the command $ ssh-keygen -t rsa
  
  
- **step 4:** When it asks to enter a file to save it into; hit enter. It willthen ask you for a paraphrase, hit enter again.
+ **Step 4:** When it asks to enter a file to save it into; hit enter. It willthen ask you for a paraphrase, hit enter again.
  
  
- **step 5:** At this time, you have generated a key and stored it, the next thing is to find it and store it into github
+ **Step 5:** At this time, you have generated a key and stored it, the next thing is to find it and store it into github
  
  
  **Step 6:** To find the actual key type in $ cat~/ .ssh/id_rsa.pub, copy the key and head on over to your github profile.
