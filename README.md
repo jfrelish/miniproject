@@ -17,7 +17,7 @@
 ## Authors
 Arif Khan, Jeffrey Frelish, Scott Grodberg
 
-[List of sources](/Sources/Sources.md)
+[List of sources](Sources.md)
 
 ## Changelog
 * 1/25/20 SG Content for readme, started linux commands index.
@@ -82,3 +82,4 @@ Arif Khan, Jeffrey Frelish, Scott Grodberg
 * 2/01/20 SG Feature: Content for automated testing.
 * 2/01/20 JF Feature: added Docker.md
 * 2/01/20 JF Fix: updated docker link on productivity
+* 2/01/20 JF Fix: updated sources link
