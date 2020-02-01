@@ -1,7 +1,3 @@
 # Improving Productivity and Competitiveness
 
-## TODO:
-* Adopt [Continuous Integration](CI.md).
-* Use Docker
-* Use the GitFlow method (Branching + GitHub forks) (Scott or ?...)
-* Automated testing (Scott)
+Software development companies keep their competitive edge by staying agile. The quicker they can react to customer demands, the more profitable they can stay. Speed comes with a price, and the faster production goes, the more likely there are to be errors in the product. [Continuous Integration](CI.md) tries to address the problem by encouraging frequent sync up with the main codebase and [automated testing](Automated-testing.md). The idea is, there are many developers on a project, and they need to have the latest dependencies and those dependencies themselves must be functioning correctly. One way to enforce correctness is by keeping control over the environment. There are dev environments and the production environment. To make sure code is working properly as the customer will see it, its tested against something that resembles the production environment as much as possible. This is where [Docker](Docker.md) comes in and provides a portable environment to hold the os, software libs, and code to package it all for test and deployment.
