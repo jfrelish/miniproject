@@ -8,10 +8,10 @@
 1. [Git Setup](/Tutorials/Git-setup.md)
 2. [Add a Collaborator to a GitHub Repo](/Tutorials/Add-collaborator.md)
 3. [Forking vs Cloning](/Tutorials/Forking-vs-cloning.md)
-4. [Branching](/Tutorials/Branchind.md)
+4. [Branching](/Tutorials/Branching.md)
 5. [Pull Requests](/Tutorials/Pull-requests.md)
 6. [Merge Conflicts](/Tutorials/Merge-conflicts.md)
-7. [Improving Productivity](Productivity.md)
+7. [Improving Productivity](/Tutorials/Productivity.md)
 
 
 ## Authors
@@ -83,3 +83,4 @@ Arif Khan, Jeffrey Frelish, Scott Grodberg
 * 2/01/20 JF Feature: added Docker.md
 * 2/01/20 JF Fix: updated docker link on productivity
 * 2/01/20 JF Fix: updated sources link
+* 2/01/20 SG Task: Rm unused content from CI, fix broken links.

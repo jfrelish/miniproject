@@ -10,8 +10,6 @@ CI was inspired by the XP methodology of Kent Beck, documented by [Martin Fowler
 * Create unit tests that can confirm the code is not broken.
 * Create an environment in which the tests can be run for each checkin.
 
-#### TODO: More explanation
-
 #### Example Daily Workflow
 * Merge copy of main line into local dev branch
 * Work on local dev to complete ticket (feature or bug)
