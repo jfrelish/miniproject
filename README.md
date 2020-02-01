@@ -80,3 +80,4 @@ Arif Khan, Jeffrey Frelish, Scott Grodberg
 * 2/01/20 SG Fix: Consolidate images to images folder, updated all links to point to local resources.
 * 2/01/20 SG Feature: Content for the productivity page.
 * 2/01/20 SG Feature: Content for automated testing.
+* 2/01/20 JF Feature: added Docker.md
