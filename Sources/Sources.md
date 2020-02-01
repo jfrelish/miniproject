@@ -12,3 +12,6 @@
 [vimdiff](https://gist.github.com/mattratleph/4026987)
 
 [Martin Fowler, Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
+
+
+[Docker](https://opensource.com/resources/what-docker)
