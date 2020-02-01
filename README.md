@@ -56,3 +56,13 @@ Changelog
 * 1/31/20 SG Wiring content together and filling some blanks.
 * 1/31/20 SG Wired fork and clone content to tutorial.
 * 2/01/20 JF Fix: Forking-vs-Cloning link
+* 2/01/20 JF Feature: added rm.png to pictures
+* 2/01/20 JF Feature:added pwg.png to pictures
+* 2/01/20 JF Feature: added cd.png to pictures
+* 2/01/20 JF Feature: added history.png to pictures
+* 2/01/20 JF Fix: added rm.png picture to Linux
+* 2/01/20 JF Fix: added pwd.png picture to Linux
+* 2/01/20 JF Fix: added cd.png picture to linux
+* 2/01/20 JF Fix: added history.png to linux
+* 2/01/20 JF Fix: edited and revised Tutorial
+
