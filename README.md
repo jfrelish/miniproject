@@ -1,14 +1,17 @@
 # miniproject
 
+## Basic Commands
 * [Linux Commands](/linux/index.md)
 * [Git Commands and GitFlow](/GitFlow/index.md)
 
-## Special Topics
-1. [Forking vs Cloning](https://github.com/jfrelish/miniproject/tree/school/Forking-Vs-Cloning)
-2. Pull Requests
-3. Adding a collaborator to a GitHub Repo
-4. [Tutorials](Tutorials/Step-by-step.md)
-5. [Continuous Integration](CI.md)
+## Topics and Tutorials
+1. [Git Setup](/Tutorials/Git-setup.md)
+2. [Add a Collaborator to a GitHub Repo](/Tutorials/Add-collaborator.md)
+3. [Forking vs Cloning](/Tutorials/Forking-vs-cloning.md)
+4. [Branching](/Tutorials/Branchind.md)
+5. [Pull Requests](/Tutorials/Pull-requests.md)
+6. [Merge Conflicts](/Tutorials/Merge-conflicts.md)
+7. [Continuous Integration](CI.md)
 
 
 ## Authors
@@ -65,4 +68,4 @@ Changelog
 * 2/01/20 JF Fix: added cd.png picture to linux
 * 2/01/20 JF Fix: added history.png to linux
 * 2/01/20 JF Fix: edited and revised Tutorial
-
+* 2/01/20 SG Fix: Distribute tutorial content across pages and update TOC
