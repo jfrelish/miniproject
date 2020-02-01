@@ -4,7 +4,7 @@
 * [Git Commands and GitFlow](/GitFlow/index.md)
 
 ## Special Topics
-1. [Forking vs Cloning](Forking-Vs-Cloning/README.MD)
+1. [Forking vs Cloning](https://github.com/jfrelish/miniproject/tree/school/Forking-Vs-Cloning)
 2. Pull Requests
 3. Adding a collaborator to a GitHub Repo
 4. [Tutorials](Tutorials/Step-by-step.md)
