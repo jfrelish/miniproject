@@ -2,7 +2,7 @@
 
 ## Basic Commands
 * [Linux Commands](/linux/index.md)
-* [Git Commands and GitFlow](/GitFlow/index.md)
+* [Git Commands](/GitFlow/index.md)
 
 ## Topics and Tutorials
 1. [Git Setup](/Tutorials/Git-setup.md)
