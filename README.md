@@ -76,3 +76,7 @@ Arif Khan, Jeffrey Frelish, Scott Grodberg
 * 2/01/20 SG Fix: Content for path topic.
 * 2/01/20 SG Fix: Up arrow for history.
 * 2/01/20 SG Feature: Bringing in a productivity and competitiveness topic page.
+* 2/01/20 SG Fix: Update file structure to mirror the structure in TOC.
+* 2/01/20 SG Fix: Consolidate images to images folder, updated all links to point to local resources.
+* 2/01/20 SG Feature: Content for the productivity page.
+* 2/01/20 SG Feature: Content for automated testing.
