@@ -65,4 +65,4 @@ Changelog
 * 2/01/20 JF Fix: added cd.png picture to linux
 * 2/01/20 JF Fix: added history.png to linux
 * 2/01/20 JF Fix: edited and revised Tutorial
-
+* 2/01/20 JF Feature: added Docker.md
